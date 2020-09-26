@@ -11,9 +11,9 @@ function App() {
   return (
     <div className="">
       <Switch>
-        <Route path="/welcome" component={WelcomePage}/>
-        <Route path="/categories" component={Activities}/>
-        <Route path="/quest" component={QuestPage}/>
+        <Route path="digitalbreakthrough-frontend/welcome" component={WelcomePage}/>
+        <Route path="digitalbreakthrough-frontend/categories" component={Activities}/>
+        <Route path="digitalbreakthrough-frontend/quest" component={QuestPage}/>
       </Switch>
     </div>
   );
