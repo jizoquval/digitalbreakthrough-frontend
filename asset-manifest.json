@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/digitalbreakthrough-frontend/static/css/main.a1d38a72.chunk.css",
-    "main.js": "/digitalbreakthrough-frontend/static/js/main.aba40c98.chunk.js",
-    "main.js.map": "/digitalbreakthrough-frontend/static/js/main.aba40c98.chunk.js.map",
+    "main.js": "/digitalbreakthrough-frontend/static/js/main.3f21f138.chunk.js",
+    "main.js.map": "/digitalbreakthrough-frontend/static/js/main.3f21f138.chunk.js.map",
     "runtime-main.js": "/digitalbreakthrough-frontend/static/js/runtime-main.34ab2db7.js",
     "runtime-main.js.map": "/digitalbreakthrough-frontend/static/js/runtime-main.34ab2db7.js.map",
     "static/css/2.8aa5a7f8.chunk.css": "/digitalbreakthrough-frontend/static/css/2.8aa5a7f8.chunk.css",
     "static/js/2.6345cc97.chunk.js": "/digitalbreakthrough-frontend/static/js/2.6345cc97.chunk.js",
     "static/js/2.6345cc97.chunk.js.map": "/digitalbreakthrough-frontend/static/js/2.6345cc97.chunk.js.map",
     "index.html": "/digitalbreakthrough-frontend/index.html",
-    "precache-manifest.c2407d6f8d73ded4d7a66cbacf79c1c7.js": "/digitalbreakthrough-frontend/precache-manifest.c2407d6f8d73ded4d7a66cbacf79c1c7.js",
+    "precache-manifest.254ef913421ea186dd5086bad961ec23.js": "/digitalbreakthrough-frontend/precache-manifest.254ef913421ea186dd5086bad961ec23.js",
     "service-worker.js": "/digitalbreakthrough-frontend/service-worker.js",
     "static/css/2.8aa5a7f8.chunk.css.map": "/digitalbreakthrough-frontend/static/css/2.8aa5a7f8.chunk.css.map",
     "static/css/main.a1d38a72.chunk.css.map": "/digitalbreakthrough-frontend/static/css/main.a1d38a72.chunk.css.map",
@@ -25,6 +25,6 @@
     "static/css/2.8aa5a7f8.chunk.css",
     "static/js/2.6345cc97.chunk.js",
     "static/css/main.a1d38a72.chunk.css",
-    "static/js/main.aba40c98.chunk.js"
+    "static/js/main.3f21f138.chunk.js"
   ]
 }

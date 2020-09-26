@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/digitalbreakthrough-frontend/precache-manifest.c2407d6f8d73ded4d7a66cbacf79c1c7.js"
+  "/digitalbreakthrough-frontend/precache-manifest.254ef913421ea186dd5086bad961ec23.js"
 );
 
 self.addEventListener('message', (event) => {
