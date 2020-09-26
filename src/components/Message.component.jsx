@@ -4,7 +4,7 @@ import "./Message.styles.scss"
 
 export default function Message({ text, rectanglePosition }) {
     return (
-        <div className="message bg-white">
+        <div className="message bg-white" style={{whiteSpace: "pre-wrap"}}>
             {text}
             <div className="rectangle" style={{
                 left: rectanglePosition === "left"

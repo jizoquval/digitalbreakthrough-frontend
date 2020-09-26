@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import ActivityBlock from "../components/ActivityBlock.component";
+import { useHistory } from "react-router-dom";
 import Button from "../components/Button.component";
 import Content from "../components/Content.component";
 import Footer from "../components/Footer.component";
@@ -12,21 +12,21 @@ import "./Welcome.styles.scss";
 const msg = `Привет! Я так рад видеть тебя! Давай дружить, я покажу самые крутые развлечения?
 Мы весело проведем этот день!`;
 
-export default class Welcome extends Component {
-  render() {
-    return (
+export default function Welcome() {
+  const history = useHistory()
+  
+  return (
       <div className="welcome-page">
         <div className="container h-100 d-flex flex-column">
-          <Header></Header>
+          <Header title="Добро пожаловать!"></Header>
           <Content>
             <Message text={msg} />
             <Mascot type={"mascot"} />
           </Content>
-          <Footer>
-            <Button text={"Давай начнем"} />
+          <Footer height="100px">
+            <Button text={"Давай начнем"} onClick={() => history.push("/categories")}/>
           </Footer>
         </div>
       </div>
-    );
-  }
+  );
 }
