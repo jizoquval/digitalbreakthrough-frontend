@@ -4,6 +4,8 @@ import mascotRight from "../assets/icons/mascotRight.png";
 import mascotBottom from "../assets/icons/mascotBottom.png";
 import mascotWithItems from "../assets/icons/mascotWithItems.png";
 
+import "./Mascot.styles.scss";
+
 const Mascot = ({ type }) => {
   let src = mascot;
   switch (type) {
@@ -24,7 +26,7 @@ const Mascot = ({ type }) => {
   }
 
   return (
-    <div className="m-5 d-flex justify-content-center">
+    <div className="mascot m-5 d-flex justify-content-center">
       <img src={src} />
     </div>
   );

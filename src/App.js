@@ -5,7 +5,7 @@ import WelcomePage from './pages/Welcome.page';
 
 function App() {
   return (
-    <div>
+    <div className="">
       <WelcomePage/>
     </div>
   );

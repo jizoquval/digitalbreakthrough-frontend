@@ -1,0 +1,17 @@
+.activityBlock {
+  background: #ffbd12;
+  border: 2px solid #18191f;
+  box-sizing: border-box;
+  border-radius: 20px;
+
+  .icon {
+    margin: 5px;
+  }
+
+  .text {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 18px;
+  }
+}
