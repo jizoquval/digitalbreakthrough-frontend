@@ -6,6 +6,7 @@ import Footer from "../components/Footer.component";
 import Header from "../components/Header.component";
 
 import mascotBottom from "../assets/icons/mascotBottom.png"
+import "./Activities.styles.scss"
 
 function Activities() {
   return (
@@ -16,9 +17,9 @@ function Activities() {
           <Button text={"Карта парка"} style={{backgroundColor: "black", color: "white", fontSize: "21px", fontWeight: "800" }}/>
           <CategoryGrid/>
         </Content>
-        <Footer height="350px">
-          <div className="d-flex justify-content-end">
-            <img src={mascotBottom} style={{ width: "262px", height: "230px"}}/>
+        <Footer height="110px">
+          <div className="d-flex justify-content-end position-relative">
+            <img src={mascotBottom} alt="mascot img" style={{position: "absolute", top:"-120px", width: "262px", height: "230px"}}/>
           </div>
         </Footer>
       </div>

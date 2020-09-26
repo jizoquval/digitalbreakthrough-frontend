@@ -8,7 +8,7 @@ import souvenirs from "../assets/icons/souvenirs.png"
 import bonuses from "../assets/icons/bonuses.png"
 import replyUs from "../assets/icons/replyUs.png"
 
-export default function Category({ type }) {
+export default function Category({ type, onClick }) {
     let src = null
     switch(type) {
         case "attractions":
@@ -35,10 +35,12 @@ export default function Category({ type }) {
         case "replyUs":
             src = replyUs
             break
+        default:
+            src = null
     }
     return (
         <div className="w-50 p-2">
-            <img src={src} className="w-100"/>
+            <img src={src} className="w-100" alt="abc" onClick={onClick}/>
         </div>
     )
 }

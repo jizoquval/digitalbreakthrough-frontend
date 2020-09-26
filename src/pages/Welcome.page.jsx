@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import { useHistory } from "react-router-dom";
 import Button from "../components/Button.component";
 import Content from "../components/Content.component";
@@ -16,12 +16,14 @@ export default function Welcome() {
   const history = useHistory()
   
   return (
-      <div className="welcome-page">
-        <div className="container h-100 d-flex flex-column">
+      <div className="welcome-page h-100">
+        <div className="container d-flex flex-column">
           <Header title="Добро пожаловать!"></Header>
           <Content>
             <Message text={msg} />
-            <Mascot type={"mascot"} />
+            <div className="px-5">
+              <Mascot type={"mascot"} />
+            </div>
           </Content>
           <Footer height="100px">
             <Button text={"Давай начнем"} onClick={() => history.push("/digitalbreakthrough-frontend/categories")}/>
