@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/NinjaValentin/digitalbreakthrough-frontend/static/css/main.a1d38a72.chunk.css",
-    "main.js": "/NinjaValentin/digitalbreakthrough-frontend/static/js/main.885583ac.chunk.js",
-    "main.js.map": "/NinjaValentin/digitalbreakthrough-frontend/static/js/main.885583ac.chunk.js.map",
-    "runtime-main.js": "/NinjaValentin/digitalbreakthrough-frontend/static/js/runtime-main.0635aa79.js",
-    "runtime-main.js.map": "/NinjaValentin/digitalbreakthrough-frontend/static/js/runtime-main.0635aa79.js.map",
-    "static/css/2.8aa5a7f8.chunk.css": "/NinjaValentin/digitalbreakthrough-frontend/static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.6345cc97.chunk.js": "/NinjaValentin/digitalbreakthrough-frontend/static/js/2.6345cc97.chunk.js",
-    "static/js/2.6345cc97.chunk.js.map": "/NinjaValentin/digitalbreakthrough-frontend/static/js/2.6345cc97.chunk.js.map",
-    "index.html": "/NinjaValentin/digitalbreakthrough-frontend/index.html",
-    "precache-manifest.4c7306e872ec98ae818726247945d58c.js": "/NinjaValentin/digitalbreakthrough-frontend/precache-manifest.4c7306e872ec98ae818726247945d58c.js",
-    "service-worker.js": "/NinjaValentin/digitalbreakthrough-frontend/service-worker.js",
-    "static/css/2.8aa5a7f8.chunk.css.map": "/NinjaValentin/digitalbreakthrough-frontend/static/css/2.8aa5a7f8.chunk.css.map",
-    "static/css/main.a1d38a72.chunk.css.map": "/NinjaValentin/digitalbreakthrough-frontend/static/css/main.a1d38a72.chunk.css.map",
-    "static/js/2.6345cc97.chunk.js.LICENSE.txt": "/NinjaValentin/digitalbreakthrough-frontend/static/js/2.6345cc97.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/NinjaValentin/digitalbreakthrough-frontend/static/media/logo.5d5d9eef.svg",
-    "static/media/mascot.png": "/NinjaValentin/digitalbreakthrough-frontend/static/media/mascot.c073ea75.png",
-    "static/media/mascotBottom.png": "/NinjaValentin/digitalbreakthrough-frontend/static/media/mascotBottom.e197bec5.png",
-    "static/media/mascotRight.png": "/NinjaValentin/digitalbreakthrough-frontend/static/media/mascotRight.b7c9858b.png",
-    "static/media/mascotWithItems.png": "/NinjaValentin/digitalbreakthrough-frontend/static/media/mascotWithItems.b4f7abae.png"
+    "main.css": "/digitalbreakthrough-frontend/static/css/main.a1d38a72.chunk.css",
+    "main.js": "/digitalbreakthrough-frontend/static/js/main.b9145686.chunk.js",
+    "main.js.map": "/digitalbreakthrough-frontend/static/js/main.b9145686.chunk.js.map",
+    "runtime-main.js": "/digitalbreakthrough-frontend/static/js/runtime-main.34ab2db7.js",
+    "runtime-main.js.map": "/digitalbreakthrough-frontend/static/js/runtime-main.34ab2db7.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/digitalbreakthrough-frontend/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.6345cc97.chunk.js": "/digitalbreakthrough-frontend/static/js/2.6345cc97.chunk.js",
+    "static/js/2.6345cc97.chunk.js.map": "/digitalbreakthrough-frontend/static/js/2.6345cc97.chunk.js.map",
+    "index.html": "/digitalbreakthrough-frontend/index.html",
+    "precache-manifest.8a4a4e3509024458984284600a4b4fc1.js": "/digitalbreakthrough-frontend/precache-manifest.8a4a4e3509024458984284600a4b4fc1.js",
+    "service-worker.js": "/digitalbreakthrough-frontend/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/digitalbreakthrough-frontend/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.a1d38a72.chunk.css.map": "/digitalbreakthrough-frontend/static/css/main.a1d38a72.chunk.css.map",
+    "static/js/2.6345cc97.chunk.js.LICENSE.txt": "/digitalbreakthrough-frontend/static/js/2.6345cc97.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/digitalbreakthrough-frontend/static/media/logo.5d5d9eef.svg",
+    "static/media/mascot.png": "/digitalbreakthrough-frontend/static/media/mascot.c073ea75.png",
+    "static/media/mascotBottom.png": "/digitalbreakthrough-frontend/static/media/mascotBottom.e197bec5.png",
+    "static/media/mascotRight.png": "/digitalbreakthrough-frontend/static/media/mascotRight.b7c9858b.png",
+    "static/media/mascotWithItems.png": "/digitalbreakthrough-frontend/static/media/mascotWithItems.b4f7abae.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0635aa79.js",
+    "static/js/runtime-main.34ab2db7.js",
     "static/css/2.8aa5a7f8.chunk.css",
     "static/js/2.6345cc97.chunk.js",
     "static/css/main.a1d38a72.chunk.css",
-    "static/js/main.885583ac.chunk.js"
+    "static/js/main.b9145686.chunk.js"
   ]
 }
