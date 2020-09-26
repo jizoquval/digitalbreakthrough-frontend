@@ -24,7 +24,7 @@ const Mascot = ({ type }) => {
   }
 
   return (
-    <div>
+    <div className="m-5 d-flex justify-content-center">
       <img src={src} />
     </div>
   );

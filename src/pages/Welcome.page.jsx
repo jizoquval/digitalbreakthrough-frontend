@@ -1,5 +1,6 @@
 import React, { Component } from "react";
-import Mascot from "../components/Mascot";
+import Button from "../components/Button.component";
+import Mascot from "../components/Mascot.component";
 import Message from "../components/Message.component";
 
 import "./Welcome.styles.scss";
@@ -12,7 +13,8 @@ export default class Welcome extends Component {
     return (
       <div className="welcome-page">
         <Message text={msg} />
-        <Mascot type={"mascotRight"} />
+        <Mascot type={"mascot"} />
+        <Button text={"Давай начнем"}/>
       </div>
     );
   }
