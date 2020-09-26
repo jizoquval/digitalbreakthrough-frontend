@@ -24,7 +24,7 @@ export default function Welcome() {
             <Mascot type={"mascot"} />
           </Content>
           <Footer height="100px">
-            <Button text={"Давай начнем"} onClick={() => history.push("digitalbreakthrough-frontend/categories")}/>
+            <Button text={"Давай начнем"} onClick={() => history.push("/digitalbreakthrough-frontend/categories")}/>
           </Footer>
         </div>
       </div>
