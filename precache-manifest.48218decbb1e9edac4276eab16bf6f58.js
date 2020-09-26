@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9fa744e3122a986aca65b284ec66411c",
+    "revision": "3294728d4f81d2ee907cfdd2b824ed03",
     "url": "/digitalbreakthrough-frontend/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digitalbreakthrough-frontend/static/css/2.8aa5a7f8.chunk.css"
   },
   {
-    "revision": "78869d7297712a6db4bc",
+    "revision": "6529c95ce481adb35ed9",
     "url": "/digitalbreakthrough-frontend/static/css/main.a1d38a72.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digitalbreakthrough-frontend/static/js/2.6345cc97.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "78869d7297712a6db4bc",
-    "url": "/digitalbreakthrough-frontend/static/js/main.3f21f138.chunk.js"
+    "revision": "6529c95ce481adb35ed9",
+    "url": "/digitalbreakthrough-frontend/static/js/main.ef7d2166.chunk.js"
   },
   {
     "revision": "2629f8ce6a0f6ed2c543",
